@@ -1,0 +1,13 @@
+names:
+  0: '10'
+  1: '50'
+  2: '100'
+  3: '500'
+  4: '1000'
+  5: '5000'
+  6: '10000'
+  7: '50000'
+nc: 8
+path: /content/drive/MyDrive/Datasets/money_data/
+train: images/train
+val: images/val
